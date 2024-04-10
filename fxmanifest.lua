@@ -11,6 +11,6 @@ lua54 'yes' --wtf is lua54 >.<
 
 -- What to run
 client_scripts {
-    'client/client.lua',
-    'config.lua'
+    'config.lua',
+    'client/client.lua'
 }
